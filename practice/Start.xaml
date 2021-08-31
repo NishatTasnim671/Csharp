@@ -1,0 +1,15 @@
+﻿<Window x:Class="Campaign.Start"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Campaign"
+        mc:Ignorable="d"
+        Title="Start" Height="450" Width="800">
+    <Grid Background="Beige">
+        <Label Content="Plasma Donation Campaign" FontSize="18" HorizontalAlignment="Left" Margin="291,10,0,0" VerticalAlignment="Top"/>
+        <Button Content="User" FontSize="16" HorizontalAlignment="Left" Margin="325,123,0,0" VerticalAlignment="Top" Width="75" Height="51" Click="Button_Click"/>
+        <Button Content="Admin" FontSize="16" HorizontalAlignment="Left" Margin="325,241,0,0" VerticalAlignment="Top" Width="75" Height="36" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

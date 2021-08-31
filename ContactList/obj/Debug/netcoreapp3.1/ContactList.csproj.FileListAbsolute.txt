@@ -1,0 +1,13 @@
+F:\ContactList\obj\Debug\netcoreapp3.1\ContactList.csprojAssemblyReference.cache
+F:\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfoInputs.cache
+F:\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfo.cs
+F:\ContactList\obj\Debug\netcoreapp3.1\ContactList.csproj.CoreCompileInputs.cache
+F:\ContactList\bin\Debug\netcoreapp3.1\ContactList.exe
+F:\ContactList\bin\Debug\netcoreapp3.1\ContactList.deps.json
+F:\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.json
+F:\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.dev.json
+F:\ContactList\bin\Debug\netcoreapp3.1\ContactList.dll
+F:\ContactList\bin\Debug\netcoreapp3.1\ContactList.pdb
+F:\ContactList\obj\Debug\netcoreapp3.1\ContactList.dll
+F:\ContactList\obj\Debug\netcoreapp3.1\ContactList.pdb
+F:\ContactList\obj\Debug\netcoreapp3.1\ContactList.genruntimeconfig.cache

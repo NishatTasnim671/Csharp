@@ -1,0 +1,17 @@
+﻿<Window x:Class="Campaign.Userview"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Campaign"
+        mc:Ignorable="d"
+        Title="Userview" Height="450" Width="800">
+    <Grid Background="Bisque">
+        <Label Content="Please give us your Information" Foreground="Blue" FontSize="14" HorizontalAlignment="Left" Margin="256,93,0,0" VerticalAlignment="Top"/>
+        <Label Content="You are Plasma -" FontSize="14" Foreground="CadetBlue" HorizontalAlignment="Left" Margin="307,143,0,0" VerticalAlignment="Top"/>
+        <Button Content="Accepter"  FontSize="16" HorizontalAlignment="Left" Margin="319,212,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Donor" FontSize="16" HorizontalAlignment="Left" Margin="319,269,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="LogOut" HorizontalAlignment="Left" Margin="644,371,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

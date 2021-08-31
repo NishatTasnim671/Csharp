@@ -1,0 +1,47 @@
+﻿<Window x:Class="Campaign.AcceptorPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Campaign"
+        mc:Ignorable="d"
+       Title="AcceptorPage" Height="450" Width="800">
+    <Grid Margin="-437,-326,185.6,0" Height="746" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="1045">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="879*"/>
+            <ColumnDefinition Width="166*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="157*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="337*"/>
+            <RowDefinition Height="409*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Please Provide Your Medical information" FontSize="16" HorizontalAlignment="Left" Margin="608,9.2,0,0" VerticalAlignment="Top" Height="29" Width="294" Grid.ColumnSpan="3" Grid.Row="1" RenderTransformOrigin="0.688,0.414"/>
+        <Label Content="Patient Name:" HorizontalAlignment="Left" Margin="458,68.2,0,0" VerticalAlignment="Top" Height="26" Width="85" RenderTransformOrigin="0.666,2.2" Grid.Row="1"/>
+        <Label Content="Age" HorizontalAlignment="Left" Margin="100.4,60.2,0,0" VerticalAlignment="Top" Height="26" Width="30" Grid.Column="1" Grid.Row="1" RenderTransformOrigin="0.313,0.585"/>
+        <Label Content="Gender" HorizontalAlignment="Left" Margin="473,141.2,0,0" VerticalAlignment="Top" Height="29" Width="50" Grid.Row="1"/>
+        <Label Content="Covid positive Date" HorizontalAlignment="Left" Margin="45.4,141.2,0,0" VerticalAlignment="Top" Height="29" Width="112" RenderTransformOrigin="-0.866,1.785" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1"/>
+        <Label Content="Name of Hospital admit at" HorizontalAlignment="Left" Margin="458,226.2,0,0" VerticalAlignment="Top" Height="26" Width="150" RenderTransformOrigin="1.167,4.631" Grid.Row="1"/>
+        <TextBox Name="pname" HorizontalAlignment="Left" Height="23" Margin="458,99.2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.81,3.522" Grid.Row="1"/>
+        <TextBox Name="page" HorizontalAlignment="Left" Height="23" Margin="45.4,99.2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.552,0.6" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1"/>
+        <TextBox Name="pdate" HorizontalAlignment="Left" Height="23" Margin="56.4,175.2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="3" Grid.Column="1" Grid.Row="1" RenderTransformOrigin="0.393,0.226"/>
+        <TextBox Name="phospital" HorizontalAlignment="Left" Height="23" Margin="458,276.2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.505,-1.765" Grid.Row="1"/>
+        <TextBox Name="pgender" HorizontalAlignment="Left" Height="23" Margin="458,175.2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Row="1" RenderTransformOrigin="0.488,-0.852"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="36.4,321.2,0,0" VerticalAlignment="Top" Width="75" Grid.Row="1" Height="32" Grid.Column="1" Click="Button_Click_2"/>
+        <Label Content="*Please Must Fill Up all The information" HorizontalAlignment="Left" Margin="456,341.2,0,0" VerticalAlignment="Top" Grid.Row="1" Height="26" Width="218" RenderTransformOrigin="0.439,1.246">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="4.899"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.549"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="Back" Grid.Column="3" HorizontalAlignment="Left" Margin="42,264.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="58" Click="Button_Click" Height="35"/>
+        <Button Content="LogOut" Grid.Column="3" HorizontalAlignment="Left" Margin="42,335.2,0,0" Grid.Row="1" VerticalAlignment="Top" Width="58" Click="Button_Click_1" Height="26" RenderTransformOrigin="0.597,1.238"/>
+
+    </Grid>
+</Window>

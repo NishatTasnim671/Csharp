@@ -1,0 +1,74 @@
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Registration.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign_MarkupCompile.cache
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign_MarkupCompile.lref
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\bin\Debug\Campaign.exe.config
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\bin\Debug\Campaign.exe
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\bin\Debug\Campaign.pdb
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Registration.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign.g.resources
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign.exe
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Campaign.pdb
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\LogIn.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\LogIn.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Userview.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Userview.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\AcceptorPage.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\AcceptorPage.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\DonorPage.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\DonorPage.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\WelcomePage.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\WelcomePage.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Start.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\Start.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\AdminLogin.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\AdminLogin.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\AdminView.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\AdminView.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\ShowREG.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\ShowREG.baml
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\ShowDonor.g.cs
+C:\Users\Asus\Desktop\OOP2 CODE\Campaign\obj\Debug\ShowDonor.baml
+F:\Campaign\bin\Debug\Campaign.exe.config
+F:\Campaign\bin\Debug\Campaign.exe
+F:\Campaign\bin\Debug\Campaign.pdb
+F:\Campaign\obj\Debug\Campaign.csprojAssemblyReference.cache
+F:\Campaign\obj\Debug\AcceptorPage.g.cs
+F:\Campaign\obj\Debug\AdminLogin.g.cs
+F:\Campaign\obj\Debug\AdminView.g.cs
+F:\Campaign\obj\Debug\DonorPage.g.cs
+F:\Campaign\obj\Debug\LogIn.g.cs
+F:\Campaign\obj\Debug\Registration.g.cs
+F:\Campaign\obj\Debug\ShowDonor.g.cs
+F:\Campaign\obj\Debug\ShowREG.g.cs
+F:\Campaign\obj\Debug\Start.g.cs
+F:\Campaign\obj\Debug\Userview.g.cs
+F:\Campaign\obj\Debug\WelcomePage.g.cs
+F:\Campaign\obj\Debug\App.g.cs
+F:\Campaign\obj\Debug\Campaign_MarkupCompile.cache
+F:\Campaign\obj\Debug\Campaign_MarkupCompile.lref
+F:\Campaign\obj\Debug\AcceptorPage.baml
+F:\Campaign\obj\Debug\AdminLogin.baml
+F:\Campaign\obj\Debug\AdminView.baml
+F:\Campaign\obj\Debug\DonorPage.baml
+F:\Campaign\obj\Debug\LogIn.baml
+F:\Campaign\obj\Debug\Registration.baml
+F:\Campaign\obj\Debug\ShowDonor.baml
+F:\Campaign\obj\Debug\ShowREG.baml
+F:\Campaign\obj\Debug\Start.baml
+F:\Campaign\obj\Debug\Userview.baml
+F:\Campaign\obj\Debug\WelcomePage.baml
+F:\Campaign\obj\Debug\Campaign.g.resources
+F:\Campaign\obj\Debug\Campaign.Properties.Resources.resources
+F:\Campaign\obj\Debug\Campaign.csproj.GenerateResource.cache
+F:\Campaign\obj\Debug\Campaign.csproj.CoreCompileInputs.cache
+F:\Campaign\obj\Debug\Campaign.exe
+F:\Campaign\obj\Debug\Campaign.pdb
+F:\Campaign\obj\Debug\AvailableDonorInfo.g.cs
+F:\Campaign\obj\Debug\AvailableDonorInfo.baml
+F:\Campaign\obj\Debug\BloodGroupShow.g.cs
+F:\Campaign\obj\Debug\BloodGroupShow.baml

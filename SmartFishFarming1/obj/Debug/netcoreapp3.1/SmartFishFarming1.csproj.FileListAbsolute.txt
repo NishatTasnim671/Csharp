@@ -1,0 +1,13 @@
+F:\SmartFishFarming1\obj\Debug\netcoreapp3.1\SmartFishFarming1.csprojAssemblyReference.cache
+F:\SmartFishFarming1\obj\Debug\netcoreapp3.1\SmartFishFarming1.AssemblyInfoInputs.cache
+F:\SmartFishFarming1\obj\Debug\netcoreapp3.1\SmartFishFarming1.AssemblyInfo.cs
+F:\SmartFishFarming1\obj\Debug\netcoreapp3.1\SmartFishFarming1.csproj.CoreCompileInputs.cache
+F:\SmartFishFarming1\bin\Debug\netcoreapp3.1\SmartFishFarming1.exe
+F:\SmartFishFarming1\bin\Debug\netcoreapp3.1\SmartFishFarming1.deps.json
+F:\SmartFishFarming1\bin\Debug\netcoreapp3.1\SmartFishFarming1.runtimeconfig.json
+F:\SmartFishFarming1\bin\Debug\netcoreapp3.1\SmartFishFarming1.runtimeconfig.dev.json
+F:\SmartFishFarming1\bin\Debug\netcoreapp3.1\SmartFishFarming1.dll
+F:\SmartFishFarming1\bin\Debug\netcoreapp3.1\SmartFishFarming1.pdb
+F:\SmartFishFarming1\obj\Debug\netcoreapp3.1\SmartFishFarming1.dll
+F:\SmartFishFarming1\obj\Debug\netcoreapp3.1\SmartFishFarming1.pdb
+F:\SmartFishFarming1\obj\Debug\netcoreapp3.1\SmartFishFarming1.genruntimeconfig.cache

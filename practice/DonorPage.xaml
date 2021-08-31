@@ -1,0 +1,31 @@
+﻿<Window x:Class="Campaign.DonorPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Campaign"
+        mc:Ignorable="d"
+        Title="DonorPage" Height="450" Width="800">
+    <Grid Background="Beige">
+        <Label Content="Thank You For Being A Donor" FontSize="18" HorizontalAlignment="Left" Margin="248,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="You Request You To Provide Some Information For Our Server" FontSize="12" HorizontalAlignment="Left" Margin="210,39,0,0" VerticalAlignment="Top" Width="445" Height="29"/>
+        <Label Content="Name" FontSize="12" HorizontalAlignment="Left" Margin="41,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="Phone" FontSize="12" HorizontalAlignment="Left" Margin="456,73,0,0" VerticalAlignment="Top"/>
+        <Label Content="Gender" FontSize="12" HorizontalAlignment="Left" Margin="41,99,0,0" VerticalAlignment="Top" Width="50"/>
+        <Label Content="Address" FontSize="12" HorizontalAlignment="Left" Margin="456,99,0,0" VerticalAlignment="Top"/>
+        <Label Content="Blood Group" FontSize="12" HorizontalAlignment="Left" Margin="41,130,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label Content="Date Of Recovery" FontSize="12" HorizontalAlignment="Left" Margin="456,138,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,103,0,0" TextWrapping="Wrap" Name="dgender" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,76,0,0" TextWrapping="Wrap" Name="dname" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,131,0,0" TextWrapping="Wrap" Name="dgroup" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="575,76,0,0" TextWrapping="Wrap" Name="dphone" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.073,0.522"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="575,103,0,0" TextWrapping="Wrap" Name="daddress" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="575,138,0,0" TextWrapping="Wrap" Name="drecovery" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="336,211,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Label Content="Age" FontSize="12" HorizontalAlignment="Left" Margin="63,156,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="171,164,0,0" TextWrapping="Wrap" Name="dage" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="52,246,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Button Content="LogOut" HorizontalAlignment="Left" Margin="558,246,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
